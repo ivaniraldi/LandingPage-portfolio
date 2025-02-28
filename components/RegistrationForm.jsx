@@ -155,7 +155,7 @@ export default function RegistrationForm() {
         </button>
 
         <p className="text-center text-xs text-gray-500">
-          Vagas limitadas. Inscrições encerram em 10 de agosto de 2023.
+          Vagas limitadas. Inscrições encerram em 10 de agosto de 2025.
         </p>
       </form>
     </div>

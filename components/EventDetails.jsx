@@ -12,7 +12,7 @@ export default function EventDetails() {
               <Calendar className="h-8 w-8 text-primary" />
             </div>
             <h3 className="mb-1 font-semibold">Data</h3>
-            <p className="text-gray-400">15 de Agosto, 2023</p>
+            <p className="text-gray-400">15 de Dezembro, 2025</p>
           </div>
 
           <div className="flex flex-col items-center">

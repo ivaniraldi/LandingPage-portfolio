@@ -17,12 +17,12 @@ export default function Hero() {
       {/* Content */}
       <div className="container relative z-10 flex h-full flex-col items-center justify-center text-center">
         <span className="mb-4 inline-block rounded-full bg-primary/20 px-4 py-1.5 text-sm font-medium text-primary-foreground">
-          WEBINAR AO VIVO • 15 DE AGOSTO, 2023
+          WEBINAR AO VIVO • 15 DE DEZEMBRO, 2025
         </span>
         <h1 className="font-display mb-6 text-4xl font-bold leading-tight sm:text-5xl md:text-6xl">
           O Futuro do <span className="text-primary">Desenvolvimento de IA</span>
           <br />
-          em 2023 e Além
+          em 2025 e Além
         </h1>
         <p className="mb-8 max-w-2xl text-lg text-gray-300">
           Junte-se a especialistas do setor enquanto discutem tendências emergentes, aplicações práticas e o futuro
